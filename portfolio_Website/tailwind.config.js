@@ -9,6 +9,9 @@ export default {
         Montserrat: ["Montserrat", "sans-serif"],
         Inter: ["Inter", "sans-serif"],
         "figma-hand": ["Just Another Hand", "sans-serif"],
+        Roboto: ["Roboto", "sans-serif"],
+        Kufam: ["Kufam", "sans-serif"],
+        "Just Another Hand": ["Just Another Hand", "sans-serif"],
       },
 
       borderRadius: {
